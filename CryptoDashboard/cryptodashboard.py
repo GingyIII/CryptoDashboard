@@ -5,7 +5,7 @@ from urllib.request import urlopen
 
 # Titles/subtitles
 st.title("Cryptocurrency Daily Prices")
-st.header("Main Dasboard")
+st.header("Main Dashboard")
 
 # ticker vars
 Bitcoin = 'BTC-USD'
